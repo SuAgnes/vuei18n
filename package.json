@@ -10,7 +10,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "element-ui": "^2.4.11",
     "vue": "^2.5.2",
+    "vue-i18n": "^8.4.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
